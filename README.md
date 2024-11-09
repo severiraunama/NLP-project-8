@@ -1,4 +1,4 @@
-All the specification completed in the singular Project8.ipynb file.
+All the specification completed in the singular Project.ipynb file.
 
 Libraries used:
 nltk 3.9.1
